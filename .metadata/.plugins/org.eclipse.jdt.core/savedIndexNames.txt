@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\gleib\python\Java\Exercices\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3376620181.index
+4225421044.index
