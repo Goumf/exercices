@@ -4,12 +4,12 @@ import java.util.Arrays;
 
 public class serie5 {
 
-	
+	static int[] tableau;
 	
 	public static void main(String[] args) {
 		
 		afficheTableau(3);
-		
+		attribuValeurTableau(3);
 	}
 	
 	public static int[] initTableau(final int nbrCellule) {
@@ -26,5 +26,14 @@ public class serie5 {
 		
 		System.out.println(Arrays.toString(initTableau(nbrCellule)));
 	}
+	
+	public static int[] attribuValeurTableau(final int nbrCellule) {
+		initTableau(3);
+		tableau[tableau.length] = 1;
+				
+	
+	return tableau;
+
+}
 
 }
